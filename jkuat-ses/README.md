@@ -133,6 +133,7 @@ export default Header;
     npm start
     ```
 
+
 ## File Naming Rules 📌
 - Use PascalCase for component files (e.g., `Header.js`)
 - Use lowercase for style files (e.g., `main.css`)
@@ -141,4 +142,4 @@ export default Header;
 ---
 
 Made with ❤️ by JKUAT SES  
-Last Updated: December 2024# SES
+Last Updated: December 2024
