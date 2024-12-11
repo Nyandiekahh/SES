@@ -124,6 +124,9 @@ export default Header;
 ## Getting Started 🚀
 
 1. Clone the repository
+  ```bash
+    git clone https://github.com/Nyandiekahh/SES.git
+
 2. Install dependencies:
     ```bash
     npm install
